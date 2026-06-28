@@ -1,0 +1,296 @@
+<!-- ==================== HERO ==================== -->
+
+<h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+DSA+%7C+MERN+Stack;Currently+Building+an+LMS+Platform;Always+Learning+Something+New+🚀" />
+</p>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=AbhayPandey-8i&style=for-the-badge&color=70A5FD)](https://github.com/AbhayPandey-8i)
+
+[![Followers](https://img.shields.io/github/followers/AbhayPandey-8i?style=for-the-badge)](https://github.com/AbhayPandey-8i?tab=followers)
+
+[![Stars](https://img.shields.io/github/stars/AbhayPandey-8i?style=for-the-badge)](https://github.com/AbhayPandey-8i?tab=repositories)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+name: Abhay Pandey
+location: India 🇮🇳
+
+currently_learning:
+  - Advanced MERN Stack
+  - System Design Fundamentals
+  - Next.js
+  - Payment Gateway Integration
+
+currently_building:
+  - Learning Management System (LMS)
+
+interests:
+  - Full Stack Development
+  - Real Time Applications
+  - Open Source
+  - AI Integration
+
+motto:
+  "Build → Break → Learn → Repeat"
+```
+
+---
+
+# ⚡ Current Focus
+
+```text
+🟢 Solving DSA Problems Daily
+🟢 Building Production-Ready MERN Projects
+🟢 Learning Next.js
+🟢 Improving Backend Architecture Skills
+🟢 Preparing for SDE Roles
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,nextjs"/>
+</p>
+
+## Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+## Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+## Additional Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+
+</p>
+
+---
+
+## RESUME:
+<a href="https://drive.google.com/file/d/1Hfg7TmCN2Aux2pnwCJ3OcBz1qYBnUTxT/view?usp=sharing">Abhay-Resume<a/>
+
+# 🌟 Featured Projects
+
+✅ Developed a full-stack Learning Management System using the MERN stack for managing online courses and learners
+
+✅ Implemented user authentication and role-based access for students and instructors
+
+✅ Deployed the application on Vercel for seamless full-stack functionality
+
+✅ Features :
+
+JWT Authentication,
+
+RTK Query,
+
+Course Management,
+
+Cloudinary Uploads,
+
+Mock Payments,
+
+Admin Dashboard,
+
+Lecture Management,
+
+Protected Routes,
+
+---
+
+Movie discovery platform built using MERN
+
+✅ Authentication
+
+✅ Search Functionality
+
+✅ Dynamic Routing
+
+✅ API Integration
+
+---
+
+Real-time chat platform built using Socket.io
+
+✅ Authentication
+
+✅ Real-time Messaging
+
+✅ Online Presence
+
+✅ Responsive UI
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AbhayPandey-8i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayPandey-8i&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-8i&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Live Developer Snapshot
+
+<!-- LIVE-STATS:START -->
+| Metric | Value |
+|--------|-------|
+| 📦 Public Repos | **18** |
+| 👥 Followers | **6** |
+| ⭐ Total Stars | **4** |
+| 🍴 Total Forks | **0** |
+| 🟩 Total Contributions (this year) | **887** |
+
+### 🔥 Contribution Streak *(full year via GraphQL)*
+
+| 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
+|:-----------------:|:-----------------:|:--------------------:|
+| **61 days** | **61 days** | **102** |
+| 04/28 → 06/27 | 04/28 → 06/27 | this year |
+
+### 🗂️ Top Languages
+
+`JavaScript    ` █████████████░░░░░░░ 67%
+`HTML          ` ████░░░░░░░░░░░░░░░░ 20%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 7%
+`TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 7%
+
+> ⏱️ *Auto-updated: Sun, 28 Jun 2026 13:27:29 GMT*
+<!-- LIVE-STATS:END -->
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhayPandey-8i&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayPandey-8i&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🏅 Certifications
+
+<a href="YOUR_CERTIFICATE_LINK">
+
+### Your Certification Name
+
+</a>
+
+Organization | Month Year
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, consider starring them!
+
+Building • Learning • Shipping 🚀
+
+</div>
