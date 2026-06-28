@@ -261,13 +261,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 
 # 🏅 Certifications
 
-<a href="YOUR_CERTIFICATE_LINK">
+<a href="https://drive.google.com/file/d/1LSGYXZrlFzFCpRm1AoLkmtdqGdRYYPyL/view?usp=sharing">
 
-### Your Certification Name
+### Google AI-ML Virtual Internship
 
 </a>
 
-Organization | Month Year
+EduSkills | AICTE | Oct–Dec 2025
 
 ---
 
