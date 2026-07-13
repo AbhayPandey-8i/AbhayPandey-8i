@@ -164,7 +164,22 @@ Real-time chat platform built using Socket.io
 
 # 📊 GitHub Analytics
 
+<p align="center">
 
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=AbhayPandey-8i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayPandey-8i&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-8i&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
