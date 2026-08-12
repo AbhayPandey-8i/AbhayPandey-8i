@@ -1,24 +1,16 @@
 <!-- ==================== HERO ==================== -->
 
-<h1 align="center">Hi 👋, I'm Abhay Pandey</h1>
-
-<h3 align="center">
-Full Stack MERN Developer • Java DSA Enthusiast • Problem Solver
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abhay+Pandey+%F0%9F%91%8B;Computer+Science+Undergraduate;Full-Stack+Developer;MERN+Stack+Developer;Building+AI-Powered+Web+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+DSA+%7C+MERN+Stack;Currently+Building+an+LMS+Platform;Always+Learning+Something+New+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=AbhayPandey-8i&style=for-the-badge&color=58A6FF" />
 </p>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=AbhayPandey-8i&style=for-the-badge&color=70A5FD)](https://github.com/AbhayPandey-8i)
-
-[![Followers](https://img.shields.io/github/followers/AbhayPandey-8i?style=for-the-badge)](https://github.com/AbhayPandey-8i?tab=followers)
-
-[![Stars](https://img.shields.io/github/stars/AbhayPandey-8i?style=for-the-badge)](https://github.com/AbhayPandey-8i?tab=repositories)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
