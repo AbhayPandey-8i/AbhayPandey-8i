@@ -100,9 +100,12 @@ motto:
 ---
 
 ## RESUME:
-<a href="https://drive.google.com/file/d/1Hfg7TmCN2Aux2pnwCJ3OcBz1qYBnUTxT/view?usp=sharing">Abhay-Resume<a/>
+<a href="https://drive.google.com/file/d/1Z7PgB70JbHnSY8ZbEvv-MZOhO_er84y8/view?usp=drive_link">Abhay-Resume<a/>
 
-# 🌟 Featured Projects
+# 🌟 Featured Projects 
+
+## 🎓 LMS - Online Learning
+<a href="https://learnstack-leaning-platform.onrender.com">Live Link<a/>
 
 ✅ Developed a full-stack Learning Management System using the MERN stack for managing online courses and learners
 
@@ -130,17 +133,9 @@ Protected Routes,
 
 ---
 
-Movie discovery platform built using MERN
+## 💬 BlinkChat
 
-✅ Authentication
-
-✅ Search Functionality
-
-✅ Dynamic Routing
-
-✅ API Integration
-
----
+<a href="srv-d9srpi8n74is739ai3j0">Live Link<a/>
 
 Real-time chat platform built using Socket.io
 
@@ -151,6 +146,18 @@ Real-time chat platform built using Socket.io
 ✅ Online Presence
 
 ✅ Responsive UI
+
+---
+
+Movie discovery platform built using MERN
+
+✅ Authentication
+
+✅ Search Functionality
+
+✅ Dynamic Routing
+
+✅ API Integration
 
 ---
 
