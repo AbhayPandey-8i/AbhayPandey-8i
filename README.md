@@ -201,8 +201,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **88 days** | **88 days** | **154** |
-| 06/06 → 09/01 | 06/06 → 09/01 | this year |
+| **0 days** | **88 days** | **154** |
+| N/A → N/A | 06/06 → 09/01 | this year |
 
 ### 🗂️ Top Languages
 
@@ -212,7 +212,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 `Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Wed, 02 Sep 2026 16:09:06 GMT*
+> ⏱️ *Auto-updated: Wed, 02 Sep 2026 20:40:25 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
