@@ -192,7 +192,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 | Metric | Value |
 |--------|-------|
 | 📦 Public Repos | **18** |
-| 👥 Followers | **6** |
+| 👥 Followers | **7** |
 | ⭐ Total Stars | **0** |
 | 🍴 Total Forks | **0** |
 | 🟩 Total Contributions (this year) | **539** |
@@ -212,7 +212,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 `HTML          ` █░░░░░░░░░░░░░░░░░░░ 6%
 `TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
 
-> ⏱️ *Auto-updated: Mon, 12 Oct 2026 04:52:06 GMT*
+> ⏱️ *Auto-updated: Mon, 12 Oct 2026 14:42:11 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
