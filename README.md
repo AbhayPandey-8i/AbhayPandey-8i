@@ -195,24 +195,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayPandey-
 | 👥 Followers | **5** |
 | ⭐ Total Stars | **0** |
 | 🍴 Total Forks | **0** |
-| 🟩 Total Contributions (this year) | **545** |
+| 🟩 Total Contributions (this year) | **546** |
 
 ### 🔥 Contribution Streak *(full year via GraphQL)*
 
 | 🟢 Current Streak | 🏆 Longest Streak | 💻 Total Active Days |
 |:-----------------:|:-----------------:|:--------------------:|
-| **133 days** | **133 days** | **199** |
-| 06/06 → 10/16 | 06/06 → 10/16 | this year |
+| **134 days** | **134 days** | **200** |
+| 06/06 → 10/17 | 06/06 → 10/17 | this year |
 
 ### 🗂️ Top Languages
 
-`JavaScript    ` █████████████░░░░░░░ 67%
-`Python        ` ███░░░░░░░░░░░░░░░░░ 17%
-`Java          ` █░░░░░░░░░░░░░░░░░░░ 6%
-`HTML          ` █░░░░░░░░░░░░░░░░░░░ 6%
-`TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 6%
+`JavaScript    ` █████████████░░░░░░░ 63%
+`Python        ` ████░░░░░░░░░░░░░░░░ 21%
+`Java          ` █░░░░░░░░░░░░░░░░░░░ 5%
+`HTML          ` █░░░░░░░░░░░░░░░░░░░ 5%
+`TypeScript    ` █░░░░░░░░░░░░░░░░░░░ 5%
 
-> ⏱️ *Auto-updated: Sat, 17 Oct 2026 15:09:33 GMT*
+> ⏱️ *Auto-updated: Sat, 17 Oct 2026 20:16:04 GMT*
 <!-- LIVE-STATS:END -->
 
 ---
